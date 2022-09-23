@@ -1,7 +1,11 @@
 ### Hi there, I'm Sahil 👋
+
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilyeole&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sahilyeole&theme=radical)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilyeole&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 ### Hi there 👋
 **sahilyeole/sahilyeole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
