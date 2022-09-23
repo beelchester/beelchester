@@ -4,7 +4,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sahilyeole&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilyeole&layout=compact)
+
 
 <!--
 ### Hi there 👋
