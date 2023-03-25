@@ -7,8 +7,10 @@ Hi, I'm Sahil!
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+![contrib](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <div align="center">
-![contrib](./profile-3d-contrib/profile-green-animate.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sahilyeole&theme=radical)
 
