@@ -1,4 +1,4 @@
-### Hi there, I'm Sahil 👋
+## Hi there, I'm Sahil 👋
 
 
 
@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![snake gif](https://github.com/sahilyeole/sahilyeole/blob/output/github-contribution-grid-snake.gif)
