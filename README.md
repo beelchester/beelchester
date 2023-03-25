@@ -14,9 +14,10 @@ Hi, I'm Sahil!
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sahilyeole&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilyeole&layout=compact&title_color=FE428E&icon_color=2234AE&text_color=D3D3D3&bg_color=141421)
+
 </div>
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilyeole&layout=compact&title_color=FE428E&icon_color=2234AE&text_color=D3D3D3&bg_color=141421)
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilyeole&show_icons=true&theme=radical)
 -->
 
