@@ -5,7 +5,16 @@ Hi, I'm Sahil!
 	</a>
 </h1>
 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+- A Passionate Self-taught Full Stack Web and Mobile Developer
+- Loves React Ecosystem
+- Currently pursuing Btech in Computer Science
+<br><br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 ![contrib](./profile-3d-contrib/profile-night-rainbow.svg)
