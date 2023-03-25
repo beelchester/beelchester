@@ -1,26 +1,21 @@
-## Hi there, I'm Sahil 👋
+<h1 align="center">
+Hi, I'm Sahil!
+	<a href="https://github.com/sahilyeole" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+	</a>
+</h1>
 
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<div align="center">
+![contrib](./profile-3d-contrib/profile-green-animate.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sahilyeole&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilyeole&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilyeole&layout=compact&title_color=FE428E&icon_color=2234AE&text_color=D3D3D3&bg_color=141421)
+</div>
 <!--
-### Hi there 👋
-**sahilyeole/sahilyeole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilyeole&show_icons=true&theme=radical)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ![snake gif](https://github.com/sahilyeole/sahilyeole/blob/output/github-contribution-grid-snake.gif)
