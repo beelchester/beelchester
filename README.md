@@ -13,7 +13,7 @@ Hi, I'm Sahil!
 
 - A Passionate Self-taught Full Stack Web and Mobile Developer
 - Loves React Ecosystem
-- Currently pursuing Btech in Computer Science
+- Currently Pursuing Btech in Computer Science
 - Skills : React, React Native, Node, Express, GraphQL, MongoDB, TypeScript, Python, Docker
 <br><br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
