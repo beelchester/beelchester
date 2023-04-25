@@ -13,8 +13,8 @@ Hi, I'm Sahil!
 
 - A Passionate Self-taught Full Stack Web and Mobile Developer
 - Currently Pursuing BTech in Computer Science
-- Skills : React, React Native, Redux, Node, Express, GraphQL, MongoDB, TypeScript, Python, Docker, MaterialUI
-- Currently learning : Next.js, Prisma, PostgreSQL
+- Skills : Next.js, React, React Native, Redux, Node, Express, GraphQL, Prisma, MongoDB, PostgreSQL, TypeScript, Python, Docker, MaterialUI
+- Currently learning : Rust
 <br><br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
