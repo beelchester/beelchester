@@ -19,7 +19,7 @@ Hi, I'm Sahil!
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3155ybtmmxkm4fjmk7rw42fsv5hq&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=198c41)](https://github.com/kittinan/spotify-github-profile)
-<br><br>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 ![contrib](./profile-3d-contrib/profile-night-rainbow.svg)
