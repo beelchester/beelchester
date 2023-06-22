@@ -18,7 +18,7 @@ Hi, I'm Sahil!
   
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3155ybtmmxkm4fjmk7rw42fsv5hq&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=ff0066)](https://spotify-github-profile.vercel.app/api/view?uid=3155ybtmmxkm4fjmk7rw42fsv5hq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3155ybtmmxkm4fjmk7rw42fsv5hq&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=198c41)](https://spotify-github-profile.vercel.app/api/view?uid=3155ybtmmxkm4fjmk7rw42fsv5hq&redirect=true)
 <br><br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
