@@ -10,7 +10,7 @@ Hi, I'm Sahil!
 
 <br>
 
-- A Passionate Self-taught Full Stack Web and Mobile Developer
+- A Passionate Self-taught Full Stack Developer
 - Currently Pursuing BTech in Computer Science
 - Skills : Rust, Go, Next.js, React, React Native, Redux, Node, Express, GraphQL, Prisma, MongoDB, PostgreSQL, TypeScript, Python, Docker, MaterialUI
   
