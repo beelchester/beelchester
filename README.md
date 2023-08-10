@@ -12,8 +12,7 @@ Hi, I'm Sahil!
 
 - A Passionate Self-taught Full Stack Web and Mobile Developer
 - Currently Pursuing BTech in Computer Science
-- Skills : Next.js, React, React Native, Redux, Node, Express, GraphQL, Prisma, MongoDB, PostgreSQL, TypeScript, Python, Docker, MaterialUI
-- Currently learning : Rust
+- Skills : Rust, Go, Next.js, React, React Native, Redux, Node, Express, GraphQL, Prisma, MongoDB, PostgreSQL, TypeScript, Python, Docker, MaterialUI
   
 <br>
 
@@ -32,6 +31,5 @@ Hi, I'm Sahil!
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilyeole&layout=compact&title_color=FE428E&icon_color=2234AE&text_color=D3D3D3&bg_color=141421)
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilyeole&show_icons=true&theme=radical)
--->
-
 ![snake gif](https://github.com/sahilyeole/sahilyeole/blob/output/github-contribution-grid-snake.gif)
+-->
