@@ -17,7 +17,7 @@ Hi, I'm Sahil!
   
 <br>
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001065.a9e501950f774498bbf81f30a7cff31e.1753)](https://github.com/rayriffy/apple-music-github-profile)
+![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001065.a9e501950f774498bbf81f30a7cff31e.1753)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
