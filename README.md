@@ -10,8 +10,8 @@ Hi, I'm Sahil!
 
 <br>
 
-- Software Developer
-- Ex-Intern at [RustDesk](https://github.com/rustdesk/rustdesk)
+- Full Stack/Software Developer
+- Ex-Intern at [RustDesk](https://github.com/rustdesk/rustdesk) ([My contributions](https://github.com/rustdesk/rustdesk/pulls?q=is:pr+author:sahilyeole))
 - Currently Pursuing BTech in Computer Science
 - Skills : Rust, Go, Flutter, Next.js, React, React Native, Redux, Node, Express, GraphQL, Prisma, MongoDB, PostgreSQL, TypeScript, Python, Docker, MaterialUI
   
