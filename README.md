@@ -24,7 +24,7 @@ Hi, I'm Sahil!
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sahilyeole&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=beelchester&theme=radical)
 
 
 </div>
