@@ -1,22 +1,8 @@
 <h1 align="center">
-Hi, I'm Sahil!
 	<a href="https://github.com/sahilyeole" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 	</a>
 </h1>
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-
-<br>
-
-- Full Stack/Software Developer
-- Intern at [Helmer](https://github.com/helmerapp)
-- Ex-Intern at [Tailcall](https://github.com/tailcallhq), [RustDesk](https://github.com/rustdesk/rustdesk) ([My contributions](https://github.com/rustdesk/rustdesk/pulls?q=is:pr+author:beelchester))
-- Currently Pursuing BTech in Computer Science
-- Skills : Rust, Go, Flutter, Next.js, React, React Native, Redux, Node, Express, GraphQL, Prisma, MongoDB, PostgreSQL, TypeScript, Python, Docker, MaterialUI
-  
-<br>
 
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture><b> Github Stats </b>
