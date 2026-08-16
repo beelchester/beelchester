@@ -5,7 +5,7 @@
 </h1>
 
 
-Work: [@sahil46y](https://github.com/sahil46y)
+Work account: [@sahil46y](https://github.com/sahil46y)
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture><b> Github Stats </b>
 
